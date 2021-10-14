@@ -9,6 +9,6 @@
               <th>#3</th>
             </tr>
           </table>
-        <img src = https://www.google.com/search?q=estonian+flag&tbm=isch#imgrc=AWaJ6q7gr4CI7M>
+        <img src = https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg>
     </body>
 </html>
