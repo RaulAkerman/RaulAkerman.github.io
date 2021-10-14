@@ -9,7 +9,7 @@
               <th>#3</th>
             </tr>
           </table>
-        <a href= https://taltech.ee>
+        <a href="https://taltech.ee">
             See on Taltechi link
         </a>
         <img src = https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg>
