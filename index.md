@@ -1,7 +1,8 @@
 <html>
     <body>
         <h1>Tundengikood: 213093</h1>
-        <p>See veebileht on tehut kasutades Github Pages-it.</p>
+        <p>See veebileht on tehut kasutades Github Pages-it ja kirjutatud kasutades HTML koodi.
+        alla olen lisandu loendi kolme numbriga, lingi Taltech pealehele ja pildi eesti lipust(mille valge on sama mis lehekulje varv</p>
           <table>
             <tr>
               <th>#1</th>
